@@ -68,19 +68,19 @@ Retrieve customer first name, last name, and email
 ![Rating per Store](https://github.com/sudarshanjadhav2005/Maven-Movies-Rental-DA/blob/main/code_output/5.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
+![Film List](https://github.com/sudarshanjadhav2005/Maven-Movies-Rental-DA/blob/main/code_output/6.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
+![Rental Popularity](https://github.com/sudarshanjadhav2005/Maven-Movies-Rental-DA/blob/main/code_output/7.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
+![Revenue per Film](https://github.com/sudarshanjadhav2005/Maven-Movies-Rental-DA/blob/main/code_output/8.png)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
+![Most Spending Customer](https://github.com/sudarshanjadhav2005/Maven-Movies-Rental-DA/blob/main/code_output/9.png)
 
 ### 10. Store with Most Revenue
-![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
+![Highest Revenue Store](https://github.com/sudarshanjadhav2005/Maven-Movies-Rental-DA/blob/main/code_output/10.png)
 
 ### 11. Monthly Rentals Count
 ![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
